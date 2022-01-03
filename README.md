@@ -1,6 +1,6 @@
 # template_business_tindog
  
-### <a href="https://jackyhuynh.github.io/template_business_tindog/">check it out!</a>
+## <a href="https://jackyhuynh.github.io/template_business_tindog/">CHECK IT OUT</a>
 
 ## About
 a simple but elegant template website for small business advertisement

@@ -3,7 +3,7 @@
 ## <a href="https://jackyhuynh.github.io/template_business_webpage/">CHECK IT OUT</a>
 
 ## About
-a simple but elegant template website for small business advertisement
+a simple but elegant template website for small business advertisement. Project is designed by Dr.Angela from [100 days of code](https://100daysofpython.dev/)
 
 ## Topics
 - template 

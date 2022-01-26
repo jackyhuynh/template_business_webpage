@@ -1,19 +1,19 @@
-# template_business_webpage
- 
+# template for business webpage
+
 ## <a href="https://jackyhuynh.github.io/template_business_webpage/">CHECK IT OUT</a>
 
 ## About
 a simple but elegant template website for small business advertisement. Project is designed by Dr.Angela from [100 days of code](https://100daysofpython.dev/)
 
 ## Topics
-- template 
-- html-css-javascript 
-- ui-ux-design
+- template
+- html/CSS/JavaScript
+- UI-UX design
 - website
 
 ## Technology
 List of technology
-- Python 
+- Python
 - Object Oriented Design
 - PyCharm IDE
 
@@ -26,7 +26,7 @@ What things you need to install the software and how to install them
 
 
 ### Installing
-A step by step series of examples that tell you how to get a development enviroment running:
+A step by step series of examples that tell you how to get a development environment running:
 * Install [PyCharm](https://www.jetbrains.com/help/pycharm/installation-guide.html) Community Edition.
 
 
@@ -34,17 +34,17 @@ A step by step series of examples that tell you how to get a development envirom
 <a href="https://jackyhuynh.github.io/template_business_tindog/">Click here</a>
 
 ## Deployment
-All the notebook can be used for research and academic basic function for Python. 
+All the notebook can be used for research and academic basic function for Python.
 
 ## Built With
-* [PyCharm Community IDE](https://www.jetbrains.com/pycharm/download/#section=windows) 
+* [PyCharm Community IDE](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 ## Contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository]().
 
 ## Authors
 
